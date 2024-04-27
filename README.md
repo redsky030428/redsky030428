@@ -19,7 +19,7 @@
 <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com?user=tcdtist&theme=yellowdark&exclude_days=Sun%2CSat" alt="tcdtist github stats" />
   
   <h3 > Skills </h3>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,tailwindcss,next,angular,bootstrap,sass" />
 
   <h3> Tools </h3>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,nginx,figma" />
