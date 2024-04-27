@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffe500&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE,+++I'M+A+WEB+DEVELOPER;MY+EXPERIENCE+>+3+YEARS+IN+PROGRAMMING)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/hC2mA1FWFs2OowO60p/giphy.gif" />
+
 
 ## MERN Stack
 
