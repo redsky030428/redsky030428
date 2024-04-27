@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffe500&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffe500&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE,+++I'M+A+WEB+DEVELOPER;MY+EXPERIENCE+>+3+YEARS+IN+PROGRAMMING)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 
 
