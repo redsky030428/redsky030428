@@ -6,7 +6,7 @@
 
 
 
-## MERN Stack
+## I am a Frontend Developer
 
 - 👨‍💻 Frontend specializing in JavaScript, React, and MERN Stack.
 - 📚 Passionate about expanding knowledge in frontend and backend technologies.
