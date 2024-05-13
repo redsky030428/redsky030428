@@ -8,7 +8,7 @@
 
 ## I am a Frontend Developer
 
-- 👨‍💻 Frontend specializing in JavaScript, React, and MERN Stack.
+- 👨‍💻 Frontend specializing in JavaScript, React, Next.js, Vue.js, SCSS and MERN Stack.
 - 📚 Passionate about expanding knowledge in frontend and backend technologies.
 - 🎯 Future goal: Becoming a skilled full-stack developer.
 - ⚡ Interests: Coding, movies, and reading. Open-minded and friendly.
